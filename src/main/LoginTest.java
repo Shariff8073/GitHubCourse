@@ -5,7 +5,7 @@ public class LoginTest {
 	public static void main(String[] args) {
 		
 
-		System.out.println("Login");
+		System.out.println("Login with Credentials");
 	}
 
 }
