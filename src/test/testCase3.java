@@ -6,6 +6,7 @@ public class testCase3 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Test case 3 is added");
+		System.out.println("Updated file with new print statement");
 	}
 
 }
